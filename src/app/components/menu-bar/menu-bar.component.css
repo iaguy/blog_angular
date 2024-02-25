@@ -1,0 +1,22 @@
+.div-menu {
+  margin-top: 2rem;
+}
+
+.div-menu > ul {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.div-menu >ul > li {
+  list-style: none;
+  cursor: pointer;
+  text-decoration: none;
+  margin-right: 2rem;
+}
+
+.div-menu >ul > li > a {
+  text-decoration: none;
+}
+
+

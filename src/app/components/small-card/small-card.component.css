@@ -1,0 +1,23 @@
+.container_small{
+  width: 40rem;
+  margin-bottom: 0.8rem;
+
+}
+
+.main{
+  display: flex;
+  flex-direction: row;
+}
+
+.imge{
+  width: 10rem;
+  height: 8rem;
+  min-width: 12rem;
+  margin-right: 1.2rem;
+}
+
+.title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

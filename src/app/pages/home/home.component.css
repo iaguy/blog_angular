@@ -1,0 +1,5 @@
+.artigos{
+  margin-top: 2.7rem;
+  display: flex;
+  flex-direction: row;
+}
